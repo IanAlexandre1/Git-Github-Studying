@@ -1,6 +1,8 @@
 print('Main code')
 print('Adding more main code')
-print('Adding even more main code')
+# main code original version: print('Adding even more main code')
+print('Changing main code space') # version that came from feature
+
 
 
 
@@ -8,3 +10,4 @@ print('Adding even more main code')
 
 print('Feature code')
 print('Adding more feature code')
+print('Adding even more feature code')
